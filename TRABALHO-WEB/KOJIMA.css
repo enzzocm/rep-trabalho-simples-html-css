@@ -1,0 +1,99 @@
+.background{
+    background-image: url(pxfuel.jpg);
+    width: 100%;
+    background-size: 140%;
+    background-position: center;
+    background-attachment: static;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 45px;
+    background: rgba(0, 0, 0, 0.6);
+    height: 100px;
+}
+
+nav h1{
+    color: white;
+    font-size: 110px;
+    font-family: 'Bebas Neue', sans-serif;
+    width: 180px;
+}
+
+span{
+    color: rgb(248, 75, 75);
+}
+nav ul{
+    padding-right: 106px;
+}
+nav ul li{
+    display: inline-block;
+    padding: 10px 25px;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 26px;
+}
+
+nav ul li a:hover{
+    color: rgb(248, 75, 75);
+    transform: scale(1.2);
+} 
+
+img{
+    border: 6px solid rgb(248, 75, 75);
+}
+#kojimaface{
+    height: 10px;
+    margin-left: 100px;
+    
+}
+
+#Kojima1{
+    padding-left: 300px;
+    width: 850px;
+}
+.content{
+    padding-top: 20px;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 12pt;
+    text-align: justify;
+}
+
+p2{
+    color: rgb(110, 110, 110);
+    font-size: 11pt;
+    text-align: justify;
+}
+
+
+
+h1{
+    color: rgb(248, 75, 75);
+    font-size: 28pt;
+    width: 900px;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+
+#quemekojima{
+    margin-top: 10px;
+    padding-bottom: 5px;
+}
+
+#quemekojima2{
+    margin-left: 100px;
+    width: 1050px;
+    padding-bottom: 40px;
+}
